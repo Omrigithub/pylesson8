@@ -1,2 +1,3 @@
 # pylesson8
-pylesson8 homework
+## turtle_code - קוד התורתל
+### lesson.py - oopקוד עם ה
